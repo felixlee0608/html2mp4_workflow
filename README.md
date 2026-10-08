@@ -80,6 +80,11 @@ bash install.sh
   - 源文件：[我从哪里来.html](examples/我从哪里来.html)（Canvas 动画 + Web Audio 程序合成配乐）
   - 转制结果：[我从哪里来_16x9.mp4](examples/我从哪里来_16x9.mp4)（1920×1080 · 30fps · H.264+AAC）
 
+<p align="center">
+  <video src="./examples/我从哪里来_16x9.mp4" controls="controls" style="max-width: 730px;" title="《我从哪里来》转制成品预览"></video>
+  <br><em>↑ 在 GitHub 桌面浏览器中可直接播放；移动端 App / 部分编辑器预览不显示视频，请点上方链接下载观看</em>
+</p>
+
 用浏览器打开 HTML 即可体验原动画，将它与 MP4 对照可直观验证「画面高度还原、文字全部保留、音频精确同步、UI 隐藏」的输出效果。
 
 ## 📚 引用与版权
