@@ -76,6 +76,8 @@ bash install.sh
 
 [examples/](examples/) 目录包含完整可运行案例：
 
+> 💡 案例动画网页《我从哪里来》由 **Claude Opus 5.5** 制作完成。
+
 - **《我从哪里来》——一部 AI 的自画像**（16:9，180 秒）
   - 源文件：[我从哪里来.html](examples/我从哪里来.html)（Canvas 动画 + Web Audio 程序合成配乐）
   - 转制结果：[我从哪里来_16x9.mp4](examples/我从哪里来_16x9.mp4)（1920×1080 · 30fps · H.264+AAC）
