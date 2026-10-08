@@ -79,6 +79,7 @@ bash install.sh
 - **《我从哪里来》——一部 AI 的自画像**（16:9，180 秒）
   - 源文件：[我从哪里来.html](examples/我从哪里来.html)（Canvas 动画 + Web Audio 程序合成配乐）
   - 转制结果：[我从哪里来_16x9.mp4](examples/我从哪里来_16x9.mp4)（1920×1080 · 30fps · H.264+AAC）
+  - ▶ **在线播放动画**：[点击运行《我从哪里来》](https://felixlee0608.github.io/html2mp4_workflow/examples/%E6%88%91%E4%BB%8E%E5%93%AA%E9%87%8C%E6%9D%A5.html)（GitHub Pages 部署，浏览器中直接播放）
 
 <p align="center">
   <video src="./examples/我从哪里来_16x9.mp4" controls="controls" style="max-width: 730px;" title="《我从哪里来》转制成品预览"></video>
