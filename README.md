@@ -68,6 +68,10 @@ bash install.sh
 - **格式**：MP4（H.264 High Profile + AAC 192kbps），30 fps（动画密集可 60 fps）。
 - **文件位置**：输出到与源 HTML 同目录，命名为 `{原文件名}_{画幅}.mp4`（如 `animation_16x9.mp4`）。
 
+## 🧭 工作流图示
+
+整体录制链路（输入 → 加载 → 核心录制 → 转码输出）见 [docs/html_to_mp4_workflow.pdf](docs/html_to_mp4_workflow.pdf)。
+
 ## 📚 引用与版权
 
 本技能由作者原创开发，封装结构、文档与脚本基于通用开源实践（MIT License）。
