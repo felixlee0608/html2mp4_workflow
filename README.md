@@ -72,6 +72,16 @@ bash install.sh
 
 整体录制链路（输入 → 加载 → 核心录制 → 转码输出）见 [docs/html_to_mp4_workflow.pdf](docs/html_to_mp4_workflow.pdf)。
 
+## 🎬 案例
+
+[examples/](examples/) 目录包含完整可运行案例：
+
+- **《我从哪里来》——一部 AI 的自画像**（16:9，180 秒）
+  - 源文件：[我从哪里来.html](examples/我从哪里来.html)（Canvas 动画 + Web Audio 程序合成配乐）
+  - 转制结果：[我从哪里来_16x9.mp4](examples/我从哪里来_16x9.mp4)（1920×1080 · 30fps · H.264+AAC）
+
+用浏览器打开 HTML 即可体验原动画，将它与 MP4 对照可直观验证「画面高度还原、文字全部保留、音频精确同步、UI 隐藏」的输出效果。
+
 ## 📚 引用与版权
 
 本技能由作者原创开发，封装结构、文档与脚本基于通用开源实践（MIT License）。
